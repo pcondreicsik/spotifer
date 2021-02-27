@@ -1,4 +1,6 @@
-# spotifer
+# Spotifer
+
+Small media player for testing out vue.js
 
 ## Project setup
 ```
